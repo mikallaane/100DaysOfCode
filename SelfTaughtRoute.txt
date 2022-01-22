@@ -1,0 +1,9 @@
+## TIME LINE
+
+220122: day20
+completed JS Basic Data Structures challenges: 11->20 section complete
+struggled with complex nested arrays
+-- -- -- -- -- -- -- 
+220121: day19
+completed JS Basic Data Structures challenges: 01->10 section complete
+struggled with multi-dimensional arrays
